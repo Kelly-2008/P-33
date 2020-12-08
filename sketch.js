@@ -63,7 +63,7 @@ function draw() {
   
   if ( count>= 5) {
     gameState ="end";
-    fill(0,255,255);
+    fill("#00aFFF");
     strokeWeight(5);
     stroke(138,43,225);
     textSize(100);
